@@ -2,7 +2,7 @@
 This project focuses on breast cancer classification, leveraging a common dataset for concept demonstration. The primary goal is to showcase the iterative process of model improvement through hyperparameter tuning, leading to enhanced accuracy and reduced type II errors.
 
 # Actions Taken :
-## Imported the breast cancer dataset from the sklearn.datasets library.
+###Dataset Import:### Imported the breast cancer dataset from the sklearn.datasets library.
 Exploratory Data Analysis (EDA):
 
 Generated an Exploratory Data Analysis (EDA) report using the ydata_profiling package to gain insights into the dataset's structure and characteristics.
