@@ -16,7 +16,7 @@ Split the dataset into training and testing sets to facilitate model training an
 
 ### 4) Initial Model Training:
 
-Trained an initial classification model on the training data.
+Trained an initial Support Vector Machine classification model on the training data.
 
 ### 5) Confusion Matrix Analysis:
 
