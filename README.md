@@ -33,4 +33,4 @@ Refitted the model with the identified optimal hyperparameters. Repredicted the 
 
 ### 8) Post-Tuning Evaluation:
 
-Re-evaluated the confusion matrix for the updated model. Observed an increased overall accuracy to 98% and a notable reduction in type 2 errors to 1%.
+Re-evaluated the confusion matrix for the updated model. Observed an increased overall accuracy to 98% and a notable reduction in type 2 errors to 1.
